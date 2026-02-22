@@ -20,7 +20,7 @@ export default function Home() {
       setLoading(true);
 
       const res = await axios.post(
-        "http://127.0.0.1:8000/generate",
+        "https://jd-ai-tool.onrender.com/generate",
         form
       );
 
