@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 **Frontend:** [https://jd-optimizer.vercel.app](https://jd-optimizer.vercel.app)
 **Backend API:** [https://jd-ai-tool.onrender.com](https://jd-ai-tool.onrender.com)
@@ -57,7 +57,7 @@ npm run dev
 
 ---
 
-## 🧪 Sample Test Data
+##  Sample Test Data
 
 Copy and paste these into the form to see the tool in action.
 
@@ -107,7 +107,7 @@ Must be able to work in a fast-paced, high-pressure environment.
 
 ---
 
-## 📊 What the Output Includes
+##  What the Output Includes
 
 For every submission the tool returns:
 
@@ -121,7 +121,7 @@ For every submission the tool returns:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -132,7 +132,7 @@ For every submission the tool returns:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 jd-ai-tool/
@@ -150,7 +150,7 @@ jd-ai-tool/
 
 ---
 
-## 🔑 API Reference
+## API Reference
 
 ### `POST /generate`
 
